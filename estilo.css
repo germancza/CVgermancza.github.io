@@ -1,0 +1,131 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightsteelblue;
+}
+
+
+
+.barradenavegacion{
+    display: flex;
+    justify-content: center;
+}
+
+.curriculum{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+.foto{
+    display: flex;
+    justify-content: center;
+}
+
+.Nombreyapellido{
+
+    display: flex;
+    justify-content: center;
+}
+
+.Informacion{
+    display: flex;
+    justify-content: center;
+}
+
+.datospersonales3{
+    display: flex;
+    justify-content: center;  
+}
+
+.columna1{
+    background-color: grey;
+    margin: 0 10px;
+    padding: 25px;
+}
+
+.columna2{
+    background-color: grey;
+    margin: 0 10px;
+    padding: 25px;
+}
+
+.columna3{
+    background-color: grey;
+    margin: 0 10px;
+    padding: 25px;
+}
+
+.datospersonales1{
+    display: flex;
+    justify-content: center;
+}
+
+.datospersonales2{
+    display: flex;
+    justify-content: center;
+}
+
+.experiencia1{
+    display: flex;
+    justify-content: center; 
+}
+
+.exp1{
+    display: flex;
+    justify-content: center; 
+}
+
+.exp2{
+    display: flex;
+    justify-content: center; 
+}
+
+.exp3{
+    display: flex;
+    justify-content: center; 
+}
+
+.hab1{
+    display: flex;
+    justify-content: center; 
+
+}
+
+.hab2{
+    display: flex;
+    justify-content: center; 
+
+}
+
+.hab3{
+    display: flex;
+    justify-content: center; 
+}
+.contac1{
+    display: flex;
+    justify-content: center;
+}
+
+.formulario{
+    width: 400px;
+    background: dodgerblue;
+    font-family: Arial;
+    color: black;
+    padding: 40px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 5px;
+
+}
+
+.controls{
+    width: 100%;
+    padding: 10px;
+    background: lightskyblue;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border: 1px solid;
+    font: arial;
+    font-size: 18px;
+
+}
